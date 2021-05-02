@@ -1,3 +1,5 @@
-[![My github stats](https://github-readme-stats.vercel.app/api?username=nebulaeandstars&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+# Hey!
 
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nebulaeandstars&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=nebulaeandstars&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=nightowl" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebulaeandstars&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=nightowl&layout=compact" />
