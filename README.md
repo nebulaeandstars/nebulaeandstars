@@ -11,8 +11,6 @@ I'm familiar with:
 - rust
 - c++
 - python
-- javascript (inc. gatsby/react)
-- ARMv7 + Thumb2 Unified Assembly
 
 C is over-represented here, and rust is severely under-represented, but here is a breakdown of what currently sits in my repositories:
 
