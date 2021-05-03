@@ -9,6 +9,7 @@ Here are my stats:
 I'm familiar with:
 - bash
 - rust
+- java
 - c++
 - python
 
