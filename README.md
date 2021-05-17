@@ -1,6 +1,6 @@
 # Hey!
 
-I'm a music/science student at the Australian National University. I tend to make a lot of puzzles and shell scripts, but also maintain my own forks of `st`, `dwm`, and `dmenu` from [suckless.org](https://suckless.org). This is my personal account, so you can also find my [dotfiles](https://github.com/nebulaeandstars/dotfiles) here.
+I'm a music/science student at the Australian National University. I tend to make a lot of puzzles and shell scripts, but I also have a few vim extensions. I also maintain my own personal forks of `st`, `dwm`, and `dmenu` from [suckless.org](https://suckless.org). This is my personal account, so you can also find my [dotfiles](https://github.com/nebulaeandstars/dotfiles) here.
 
 Here are my stats:
 
