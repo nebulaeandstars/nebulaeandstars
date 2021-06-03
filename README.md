@@ -16,4 +16,4 @@ I'm familiar with:
 
 Language breakdown (private repositories ommitted):
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebulaeandstars&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=nightowl&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebulaeandstars&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=nightowl&layout=compact&exclude_repo=dwm,st,xmenu,dmenu" />
