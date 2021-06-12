@@ -1,6 +1,6 @@
 # Hey!
 
-I'm a music/science student at the Australian National University. Outside of work, I tend to make a lot of puzzles and shell scripts, but I've also made a few vim extensions. This is my personal account, so you can find my [dotfiles](https://github.com/nebulaeandstars/dotfiles) here, as well as my own personal forks of `st`, `dwm`, and `dmenu` from [suckless.org](https://suckless.org).
+I'm a music/science student at the Australian National University. This is my personal account, so you can find my [dotfiles](https://github.com/nebulaeandstars/dotfiles) here, as well as some small personal projects.
 
 Here are my stats:
 
@@ -9,8 +9,9 @@ Here are my stats:
 I'm familiar with:
 - rust
 - bash
+- java
 - python
-- ARMv7 assembly
+- ARM assembly
 
 Language breakdown (private repositories ommitted):
 
