@@ -22,7 +22,16 @@ I'm a software developer currently working in the aerospace industry, focusing o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
 </div>
 
-<br />
+<hr />
+
+<img src="./pride-flag-trans.svg" height="40" alt="bash logo"  /> <img width="12" />
+<img src="./pride-flag-lesbian.svg" height="40" alt="bash logo"  /> <img width="12" />
+<img src="./pride-flag-trans.svg" height="40" alt="bash logo"  /> <img width="12" />
+<img src="./pride-flag-lesbian.svg" height="40" alt="bash logo"  /> <img width="12" />
+<img src="./pride-flag-trans.svg" height="40" alt="bash logo"  /> <img width="12" />
+<img src="./pride-flag-lesbian.svg" height="40" alt="bash logo"  /> <img width="12" />
+<img src="./pride-flag-trans.svg" height="40" alt="bash logo"  /> <img width="12" />
+<img src="./pride-flag-lesbian.svg" height="40" alt="bash logo"  /> <img width="12" />
 
 <!--
 <img width=500 src="https://github-readme-stats.vercel.app/api?username=nebulaeandstars&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=nightowl" />
