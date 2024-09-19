@@ -4,7 +4,7 @@ I'm a software developer currently working in the aerospace industry, focusing o
 
 <br />
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -28,6 +28,8 @@ I'm a software developer currently working in the aerospace industry, focusing o
 <img width=500 src="https://github-readme-stats.vercel.app/api?username=nebulaeandstars&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=nightowl" />
 -->
 
+<!--
 <div align="center">
   <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebulaeandstars&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=nightowl&layout=compact&exclude_repo=dwm,st,xmenu,vim-chapel,comp2300-puzzle,dotfiles-old,dotfiles-extra&langs_count=6&card_width=450" />
 </div>
+-->
