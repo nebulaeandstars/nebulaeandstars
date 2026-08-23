@@ -1,6 +1,6 @@
 # Hey!
 
-I'm a software developer currently working in the aerospace industry, focusing on space-domain awareness and distributed monitoring/control systems. This is my personal account, so it's not super active, but you can find my [dotfiles](https://github.com/nebulaeandstars/dotfiles) here, as well as some old personal projects. [abar](https://github.com/nebulaeandstars/abar), [tagr](https://github.com/nebulaeandstars/tagr), and [o](https://github.com/nebulaeandstars/o) are examples that I'm particularly fond of.
+I'm a software & systems engineer working in the space industry, focusing on space-domain awareness and monitoring/control systems. This is my personal account, so it's not super active, but you can find my [dotfiles](https://github.com/nebulaeandstars/dotfiles) here, as well as some old personal projects.
 
 <br />
 
